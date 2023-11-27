@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Oops.Constructor.Constructor",
+            "projectName": "Practice_1eb0fac1"
+        },
+        {
+            "type": "java",
+            "name": "SetterAndGetter",
+            "request": "launch",
+            "mainClass": "Oops.Encapsulation.SetterAndGetter",
+            "projectName": "Practice_1eb0fac1"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Oops.Encapsulation.Shadowing",
+            "projectName": "Practice_1eb0fac1"
+        }
+    ]
+}
